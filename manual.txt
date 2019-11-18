@@ -1,0 +1,4 @@
+1. After cloning the repository install latest versions of the dependencies
+specified in requirements.txt and package.json files
+2. Run npm build so build folder with static files is created
+3. Run python manage.py collect static so django can serve them
